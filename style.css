@@ -1,7 +1,9 @@
     body {
         height: 100vh;
         width: 100%;
-        background-image: url("/https://res.cloudinary.com/dzbax077h/image/upload/v1650293400/wallpap_obuhqr.png");
+        /* background-image: url("/https://res.cloudinary.com/dzbax077h/image/upload/v1650293400/wallpap_obuhqr.png"); */
+        /* Adding Background image saved locally.*/
+        background: url(wallpap.png) no-repeat center center fixed;
         padding: 0px;
     }
     
